@@ -23,7 +23,6 @@ function checkInputs () {
     if(userNameValue == ''){
         // show error
         // add error class
-        // inja username hamun inpute username mishe va message ke mikham neshun bede age error bud 
         setErrorfor(username, 'Username cannot be balck')
     } else {
         // add success class
